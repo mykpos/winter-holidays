@@ -1,0 +1,5 @@
+{
+  "name": "winter-holidays",
+  "owner": { "name": "mykpos" },
+  "plugins": [{ "name": "winter-holidays", "source": "./" }]
+}
